@@ -1,0 +1,45 @@
+{
+  "name": "uspto_bulk_file_processor",
+  "version": "4.0.0",
+  "description": "Code for fetching, synchronizing, and processing USPTO bulk data.",
+  "main": "./out/index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "process": "node ./out/index.js",
+    "json2bson": "node ./out/json2bson.js",
+    "test": "npx tsc && npx ava './out/tests/*.js' --verbose",
+    "docs": "npx typedoc --plugin typedoc-plugin-markdown ./src/index.ts"
+  },
+  "keywords": [
+    "USPTO",
+    "Patent"
+  ],
+  "author": "Anthony Mancini",
+  "license": "GNU AGPLv3 or later",
+  "dependencies": {
+    "@types/luxon": "^1.26.4",
+    "adm-zip": "^0.5.4",
+    "axios": "^0.21.1",
+    "bson": "^4.3.0",
+    "chalk": "^4.1.0",
+    "cheerio": "^1.0.0-rc.5",
+    "commander": "^7.2.0",
+    "dotenv": "^8.2.0",
+    "lodash": "^4.17.21",
+    "luxon": "^1.26.0",
+    "mongoose": "^5.12.4",
+    "striptags": "^3.1.1",
+    "xml2js": "^0.4.23"
+  },
+  "devDependencies": {
+    "@types/adm-zip": "^0.4.33",
+    "@types/cheerio": "^0.22.28",
+    "@types/lodash": "^4.14.168",
+    "@types/node": "^14.14.35",
+    "@types/xml2js": "^0.4.8",
+    "ava": "^3.15.0",
+    "typedoc": "^0.20.34",
+    "typedoc-plugin-markdown": "^3.6.0",
+    "typescript": "^4.2.3"
+  }
+}

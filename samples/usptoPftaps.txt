@@ -1,0 +1,242 @@
+PATN
+WKU  H00012700
+SRC  8
+APN  0809780
+APT  7
+ART  221
+APD  19930125
+TTL  Deburring apparatus
+ISD  19940104
+NCL  3
+ECL  1
+EXP  Tudor; Harold J.
+NDR  1
+NFG  1
+INVT
+NAM  Rawls; Robert C.
+CTY  Ballston Lake
+STA  NY
+ASSG
+NAM  The United States of America as represented by the Secretary of the Army
+CTY  Washington
+STA  DC
+COD  06
+RLAP
+COD  71
+APN  825366
+APD  19920124
+PSC  03
+CLAS
+OCL   51  7
+XCL   51 17
+EDF  5
+ICL  B24B 1904
+FSC   51
+FSS  411;7;317;318;328;290;17
+FSC   15
+FSS  395;345
+FSC  134
+FSS  167 C;166 C;169 C
+UREF
+PNO  3800358
+ISD  19740400
+NAM  Ryan
+OCL   15395
+UREF
+PNO  4713882
+ISD  19871200
+NAM  Bianchi
+OCL   51411
+UREF
+PNO  5012620
+ISD  19910500
+NAM  McNeil
+OCL   51  7
+UREF
+PNO  5033545
+ISD  19910700
+NAM  Sudol
+OCL  134167C
+UREF
+PNO  5057174
+ISD  19911000
+NAM  Anderson
+OCL   51411
+UREF
+PNO  5160548
+ISD  19921100
+NAM  Boisture
+OCL   51319
+FREF
+PNO  223372
+ISD  19870500
+CNT  EPX
+OCL   51424
+FREF
+PNO  948645
+ISD  19820800
+CNT  SUX
+OCL   51  7
+FREF
+PNO  1015936
+ISD  19830500
+CNT  SUX
+OCL  134167C
+FREF
+PNO  1355464
+ISD  19871100
+CNT  SUX
+OCL   51290
+LREP
+FR2  Lane; Anthony T.
+FR2  Goldberg; Edward
+FR2  Sachs; Michael
+ABST
+PAL  The disclosure is of apparatus and method for deburring the inner surface
+       a metal tube by inserting a tubular structure into the metal tube and
+      flowing an abrasive medium along a path over the area to be deburred and
+      out of the metal tube.
+GOVT
+PAR  The invention described herein may be manufactured, used and licensed by or
+      for the Government of the United States for governmental purposes without
+      the payment of any royalties thereon.
+PARN
+PAR  This application is a continuation of application Ser. No. 07/825,366,
+      filed Jan. 24, 1992, now abandoned.
+BSUM
+PAC  BACKGROUND OF THE INVENTION
+PAR  In the manufacture of a weapon having a bore such as a rifle, lands are
+      formed inside the barrel and it is generally necessary to remove sharp
+      edges from the rifling lands at the origin of the bore. It is also
+      necessary to provide the required radius of the rifling lands.
+PAR  One method of removing sharp edges from rifling lands at the origin of the
+      bore is known as a whipping procedure. In this procedure, emery paper is
+      secured to a metal rod which is coupled to an electric drill for turning
+      the rod. The rod is inserted in the barrel and the emery paper is rotated
+      at the rifling land to provide the desired smoothing. This method is
+      unsatisfactory because it is time consuming and does not perform the
+      required radiusing of the lands.
+PAC  SUMMARY OF THE INVENTION
+PAR  The apparatus of the invention includes means for passing an abrasive fluid
+      through a bore with such control that uniform smoothing of lands and
+      uniform radiusing are achieved.
+DRWD
+PAC  DESCRIPTION OF THE DRAWINGS
+PAR  The drawing is a side sectional elevational view of apparatus embodying the
+      invention.
+DETD
+PAC  DESCRIPTION OF THE INVENTION
+PAR  The apparatus of the invention is used to smooth burrs on rifling lands 10
+      and to radius the lands in the origin of the bore 20 of a rifle or similar
+      weapon 30. The deburring apparatus 40 is a tubular member which includes
+      an annular outer tube 50 and a central tube 60 and is adapted to be
+      inserted into the bore of the weapon to be deburred and radiused. The
+      terms "radius" is used occasionally as a verb throughout this application,
+      as in "to radius" a tube, or "radiusing" e.g. The meaning is to smoothly
+      round sharp edges here for example in a precision way, to a particular
+      (diameter) radius. The application given here is to smooth out the sharp
+      edges of a rifling pattern (like internal threads) cut into the bore of a
+      weapon. The space 230 between outer tube 50 and central tube 60 provides a
+      path for a fluid medium as will be explained below. The deburring
+      apparatus has a front end 70 and a rear end 80.
+PAR  The rear end 80 of the deburring apparatus 40 which is adapted to be
+      positioned adjacent to the rifling lands to be radiused includes a first
+      annular wall and mechanical seal 90 at which the outer annular tube 50
+      terminates and through which the inner central tube 60 passes. The
+      mechanical seal 90 includes a plurality of apertures 100 which are in
+      communication with the outer annular tube 50. The mechanical seal wall or
+      connector 90 includes an annular sealing ring 95 secured to its rear
+      surface. The sealing ring has a diameter such that it fits snugly in the
+      powder chamber 25 of the weapon.
+PAR  Spaced from the mechanical seal 90 is a front seal assembly which includes
+      second annular wall or plate 110, of a diameter to fit snugly in the
+      weapon bore. The front seal assembly also includes an annular gasket 115
+      disposed against the surface of plate 110 which faces wall 90.
+PAR  Between the first and second walls 90 and 110 is placed a part 120 known as
+      a medium compression head. This compression head is generally annular and
+      includes a central bore into which the central tube 60 extends in a tight
+      fit. The annular member 120 has a central portion 121 of a diameter such
+      that its outer wall 130 is disposed suitably close to the wall of the
+      weapon bore at the rifling lands 10 to be radiused. The annular member or
+      compression head 120 includes a first annular portion 121 and a second
+      annular portion 150 on either side thereof. The first annular portion 121
+      is spaced a small distance from the seal wall 90 and the second annular
+      portion 150 bears against the seal wall or plate 110. Where the central
+      portion 121 of annular member 120 meets the second annular portion 150, it
+      is provided with a plurality of apertures 160 arrayed in an annular
+      pattern which communicate with the bore of the annular member 120 and the
+      central tube 60. The annular portion 121 is sealed to the central tube 60
+      by a sealing means 195.
+PAR  In operation of the deburring apparatus 40, the apparatus 40 is inserted in
+      the bore of the weapon having rifling lands to be deburred and radiused
+      with the central portion 121 of the annular member 120 disposed at the
+      rifling lands. The apparatus 40 is supported and centered by annular
+      guides 170 disposed along its length, as required. A source 180 of an
+      abrading medium comprised of a carbide silicone based material impregnated
+      with various size grains of carbide chips is provided and is coupled by
+      suitable hosing to the quick release connector 175 secured to annular
+      outer tube 50 and the central tube 60 so that the medium can flow into the
+      central tube. Suitable hosing is also connected to a quick release
+      connector 190 provided on central tube 60. The fluid medium flows, under
+      pressure, down the annular tube 50, through the apertures 100 in the wall
+      90 along the outer surface 130 of the annular member 120 and across the
+      rifling lands 10 and through the apertures 160 in the second annular 150
+      and into the central tube 60 and out 190, thereafter back to the source
+      180 of the fluid medium (fluid recycling recovery mechanism not shown).
+      This operation is continued until the rifling lands are properly radiused.
+      Normally, this operation can be completed in a time of the order of four
+      to six hours.
+PAR  All parts of the deburring apparatus 40 are preferably of aluminum except
+      for certain parts which are of hardened steel where required. The annular
+      compression head 120 is treated to a 0.0005 hardcoating. A plate 185
+      serves to support the deburring apparatus in general, and further serves
+      to support the apparatus for insertion into the tube for the deburring
+      operation.
+CLMS
+STM  What is claimed is:
+NUM  1.
+PAR  1. Device for cutting and smoothing surfaces and edges of the interior
+      lands (10) of a metal gun barrel tube by action of abrasive liquid,
+      comprising:
+PA1  first insertable cylindrical tubular means (50) sized to fit essentially
+      within said metal gun barrel tube (30), and a first flange means (90)
+      attached on one end of said first tubular means, sealed with a ring means
+      (95) to prevent liquid from entering any of the space (25) between the
+      first tubular means (50) and the barrel tube (30); and
+PA1  second insertable cylindrical tubular means (60) concentrically positioned
+      within said first tubular means (50), sized so that there is an open
+      annular passageway (230) between said first and second tubular means
+      mounted through a hole in said first flange means (90); and
+PA1  a plate means (110) fitted on one end of said barrel (30) to seal it to
+      contain liquid;
+PA1  a liquid pressure head attachment (120) fitted to the end of said second
+      tubular means (60), said end terminating, and said pressure head (120)
+      located in, the space between said first flange means (90) and said plate
+      means (110);
+PA1  apertures (100) in said flange means to permit liquid to pass out from said
+      open annular passageway between said first and second tubular means;
+PA1  means (180) located at the end of said respective first and second tubular
+      means opposite said plate means for pumping abrasive liquid under pressure
+      into said open annular passageway (130) between said first and said second
+      tubular means, said first and second tubular means being both sealed at
+      their respective ends opposite the said plate means (110) to prevent the
+      escape of liquid at those respective ends;
+PA1  whereby said abrasive liquid is pumped through said passageway (130)
+      between said first and said second tubular means, through said aperture
+      (100) into the space bounded between said flange (90) and said plate (110)
+      and the inside of the barrel (30) around said pressure head (120) to
+      abrade but not to deform the inside of the barrel (30) at the location of
+      lands (10) within the barrel which require smoothing then inside the
+      pressure head into the second tubular means (60), said second tubular mean
+      having a further means (190) for bleeding out the abrasive liquid
+      therefrom.
+NUM  2.
+PAR  2. The device of claim 1, wherein the pressure head (120) is comprised of
+      an annular cylindrical head piece (121) sealed to said second tubular
+      means (60) by a sealing means (195) and further including a pressure
+      portion (150) which is attached to plate (110) between head piece (121)
+      and said plate (110).
+NUM  3.
+PAR  3. The device of claim 1 wherein said first tubular means (50) is supported
+      within said gun barrel (30) by a support structure (170).
+
