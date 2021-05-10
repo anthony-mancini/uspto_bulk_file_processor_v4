@@ -55,6 +55,12 @@ Units tests were created to ensure code quality for the code in this repository.
 npm run test
 ```
 
+## Code Base Overview and UML Diagram
+
+Below is a UML diagram providing an overview of the code base in this repository. The primary class in this repository is the [UsptoPatentProcessor](docs/classes/usptopatentprocessor.md) class, with the other classes and functions in this repository being used directly or indirectly by this class.
+
+![UML Class Diagram](/docs/class_diagram.png)
+
 ## Documentation
 
 Below is the documentation for developers who want to use and modify the functions and classes in this repository.
